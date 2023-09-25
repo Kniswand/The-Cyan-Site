@@ -1,0 +1,23 @@
+    .links{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: cyan;
+        height: 50px;
+    }
+    a{
+        text-decoration: none;
+        color:black;
+        margin: 20px;
+        }
+
+h1{
+    text-transform: capitalize;
+}
+
+footer{
+    background-color: cyan;
+    color: black;
+    text-align: center;
+    margin-top: 200px;
+}
